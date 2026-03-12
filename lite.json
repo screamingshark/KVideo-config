@@ -120,14 +120,6 @@
     "priority": 1
   },
   {
-    "id": "ryzy",
-    "name": "🎬如意资源",
-    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "dytt",
     "name": "🎬电影天堂",
     "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -163,6 +155,14 @@
     "id": "jinying",
     "name": "🎬金鹰点播",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "piaoling",
+    "name": "🎬飘零资源",
+    "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
